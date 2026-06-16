@@ -36,3 +36,19 @@ Selected CMORised output from the UKESM TIPMIP ensemble can be publicly accessed
 https://gws-access.jasmin.ac.uk/public/ukesm/TerraFIRMA
 
 The full simulation outputs are archived at the UK Met Office and are available for research purposes through the JASMIN platform (www.jasmin.ac.uk) maintained by the Centre for Environmental Data Analysis (CEDA); for details please contact UM_collaboration@metoffice.gov.uk, referencing this paper.
+
+## System details
+
+The code was developed and tested using:
+- Python 3.12.13
+- Iris 3.15.0
+- NumPy 2.3.5
+- Matplotlib 3.10.9
+
+Operation system used:
+- Red Hat Enterprise Linux 9.7 (Plow)
+
+No non-standard hardware is required.
+
+### Expected run time
+Less than 1 minute on a standard desktop.
