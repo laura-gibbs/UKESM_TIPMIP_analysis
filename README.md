@@ -44,6 +44,7 @@ The code was developed and tested using:
 - Iris 3.15.0
 - NumPy 2.3.5
 - Matplotlib 3.10.9
+- xarray 2025.11.0
 
 Operation system used:
 - Red Hat Enterprise Linux 9.7 (Plow)
